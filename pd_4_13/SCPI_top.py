@@ -63,9 +63,9 @@ def command():
 if __name__ == "__main__":
     command()
     #:channel1:DISPlay
-    #:channel1:COUPling DC 50
-    #:channel1:SCALe 0.2
-    #:channel1:OFFSet 2
+    #:channel1:COUPling DC
+    #:channel1:SCALe 2
+    #:channel1:OFFSet 1.6
     #:channel1:OFFSet_v 0.2
     #import re
 
